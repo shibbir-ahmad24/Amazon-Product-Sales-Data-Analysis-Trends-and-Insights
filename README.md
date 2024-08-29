@@ -48,6 +48,7 @@
   •	Compiled findings in a comprehensive report.
   
   •	Summarized insights and highlighted key trends and factors affecting sales.
+  
 
 ### **Impact:**
 
@@ -56,6 +57,15 @@
 •	Enabled better decision-making for product listings, pricing strategies, and marketing.
 
 •	Improved inventory management by identifying top-selling and least-selling products.
+
+
+- **Programming Language:** Python
+  
+- **Libraries:**
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Seaborn
 
 •	Contributed to optimized sales outcomes and enhanced customer satisfaction.
 
