@@ -61,7 +61,8 @@
 •	Contributed to optimized sales outcomes and enhanced customer satisfaction.
 
 
-### **Programming Language:** Python
+### **Programming Language:** 
+  - Python
 
 ### **Libraries:**
   - Numpy
