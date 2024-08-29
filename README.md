@@ -61,10 +61,10 @@
 •	Contributed to optimized sales outcomes and enhanced customer satisfaction.
 
 
-**Dataset Source:**
+### **Dataset Source:**
 - [Amazon Products Dataset on Kaggle](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset/)
 
-**Data:**
+### **Data:**
 - Amazon-Products.csv
 
 ### **Programming Language:** 
