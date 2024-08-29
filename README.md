@@ -69,7 +69,7 @@
 
 ### **Programming Language & Libraries:** 
 - Programming Language: Python
-- Libraries
+- Libraries:
   - Numpy
   - Pandas
   - Matplotlib
