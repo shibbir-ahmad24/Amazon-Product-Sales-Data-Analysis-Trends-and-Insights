@@ -9,7 +9,7 @@
 •	Lack of insights into factors influencing product sales, affecting decision-making for inventory, pricing, and marketing.
 
 
-**Solution:**
+### **Solution:**
 
 **Data Exploration & Cleaning:**
 
@@ -49,7 +49,7 @@
   
   •	Summarized insights and highlighted key trends and factors affecting sales.
 
-**Impact:**
+### **Impact:**
 
 •	Provided a detailed understanding of Amazon’s product sales landscape.
 
