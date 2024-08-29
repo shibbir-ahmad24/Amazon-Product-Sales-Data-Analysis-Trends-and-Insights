@@ -91,5 +91,54 @@
 ![image7](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image7.png)
 
 
+### **Summary of Insights**
+
+**Popular Product Categories:**
+
+- TV, Audio & Cameras
+- Stores
+- Appliances
+- Women's Clothing
+- Toys & Baby Products
+- Accessories
+- Beauty & Health
+- Home & Kitchen
+
+**Popular Product Sub-categories:**
+
+- All Electronics
+- Headphones
+- Cameras
+- Camera Accessories
+- Home Entertainment Systems
+- Men's Fashion
+- All Appliances
+- Kitchen & Home Appliances
+- Amazon Fashion
+- Bags & Luggage
+
+**Top-Selling Products:**
+
+- SanDisk products, especially Memory Cards
+- Redmi products, especially Smartphones
+- AmazonBasics Alkaline Batteries and HDMI cables
+- boAt Bassheads and Eardopes products
+- Huggies Wonderpants Diapers
+- Products with Low Sales:
+- SOOTRA BRANDED Carbon Film Resistor
+- Okos Gold Plated Blue and Green Bracelet
+- SBWC Stylish Slim Lice Narrow Comb
+- Moti Chain Gold Plated Necklace
+- Shelfkey.com ALUMINIUM ELECTROLYTIC CAPACITOR
+
+**Trend in Product Sales:**
+
+- Buyers tend to purchase products from the same brand as top-selling items. There is a preference for well-rated products with higher numbers of ratings.
+  
+**Important Factors Affecting Sales:**
+
+- Product Categories: Well-established categories like Electronics, Appliances, and Clothing attract the most sales.
+- Discounts: Discounts do not appear to encourage higher sales; well-discounted products often have lower sales.
+- Price: The actual price of items has no significant effect on the volume of sales.
 
 
