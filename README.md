@@ -10,7 +10,7 @@ Problem:
 
 Solution:
 
-•	Data Exploration & Cleaning:
+Data Exploration & Cleaning:
 
   •	Analyzed dataset structure.
   
@@ -18,7 +18,7 @@ Solution:
   
   •	Ensured data integrity.
   
-•	Data Wrangling:
+Data Wrangling:
 
   •	Manipulated and prepared the dataset for analysis.
   
@@ -26,7 +26,7 @@ Solution:
   
   •	Transformed data as required for deeper insights.
   
-•	Data Mining:
+Data Mining:
 
   •	Extracted insights on top product categories and sub-categories.
   
@@ -34,7 +34,7 @@ Solution:
   
   •	Determined top-selling and least-selling products.
   
-•	Data Visualization:
+Data Visualization:
 
   •	Visualized popularity of product categories and sub-categories.
   
@@ -42,7 +42,7 @@ Solution:
   
   •	Analyzed the correlation between ratings and number of ratings for popular products.
   
-•	Reporting:
+Reporting:
 
   •	Compiled findings in a comprehensive report.
   
