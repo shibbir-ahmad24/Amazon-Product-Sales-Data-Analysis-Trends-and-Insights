@@ -1,6 +1,6 @@
 # Amazon-Product-Sales-Data-Analysis
 
-Problem:
+**Problem:**
 
 •	Difficulty in understanding sales performance across Amazon's vast product catalog.
 
@@ -48,4 +48,13 @@ Reporting:
   
   •	Summarized insights and highlighted key trends and factors affecting sales.
 
+Impact:
+
+•	Provided a detailed understanding of Amazon’s product sales landscape.
+
+•	Enabled better decision-making for product listings, pricing strategies, and marketing.
+
+•	Improved inventory management by identifying top-selling and least-selling products.
+
+•	Contributed to optimized sales outcomes and enhanced customer satisfaction.
 
