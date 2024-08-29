@@ -1,15 +1,36 @@
 # Amazon-Product-Sales-Data-Analysis
 
-Tools: Python, Numpy, Pandas, Matplotlib, Seaborn
+Problem:
 
-Time: April 2024
+•	Difficulty in understanding sales performance across Amazon's vast product catalog.
 
-• Conducted data exploration and cleaning to understand dataset structure, identify missing values, outliers, and inconsistencies, and ensure data integrity
+•	Challenges in identifying popular and underperforming products.
 
-• Utilized data wrangling technique to manipulate and prepare the dataset for analysis, extracting relevant features, creating new variables, and transforming data as needed
+•	Lack of insights into factors influencing product sales, affecting decision-making for inventory, pricing, and marketing.
 
-• Conducted data mining to extract insights, identifying top product categories and sub-categories, popular products by ratings and discount pricing, as well as top selling and least selling products
+Solution:
+•	Data Exploration & Cleaning:
+  •	Analyzed dataset structure.
+  •	Identified and addressed missing values, outliers, and inconsistencies.
+  •	Ensured data integrity.
+  
+•	Data Wrangling:
+  •	Manipulated and prepared the dataset for analysis.
+  •	Extracted relevant features and created new variables.
+  •	Transformed data as required for deeper insights.
+  
+•	Data Mining:
+  •	Extracted insights on top product categories and sub-categories.
+  •	Identified popular products based on ratings and discount pricing.
+  •	Determined top-selling and least-selling products.
+  
+•	Data Visualization:
+  •	Visualized popularity of product categories and sub-categories.
+  •	Explored total sales per rating.
+  •	Analyzed the correlation between ratings and number of ratings for popular products.
+  
+•	Reporting:
+  •	Compiled findings in a comprehensive report.
+  •	Summarized insights and highlighted key trends and factors affecting sales.
 
-• Visualized insights to explore popularity of product categories and sub-categories, total sales per rating, and correlation between ratings and number of ratings in popular products
 
-• Provided comprehensive findings report summarizing insights, and highlighting important trends and factors affecting product sales
