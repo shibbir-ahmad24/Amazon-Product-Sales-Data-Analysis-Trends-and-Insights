@@ -8,9 +8,10 @@
 
 •	Lack of insights into factors influencing product sales, affecting decision-making for inventory, pricing, and marketing.
 
-Solution:
 
-Data Exploration & Cleaning:
+**Solution:**
+
+**Data Exploration & Cleaning:**
 
   •	Analyzed dataset structure.
   
@@ -18,7 +19,7 @@ Data Exploration & Cleaning:
   
   •	Ensured data integrity.
   
-Data Wrangling:
+**Data Wrangling:**
 
   •	Manipulated and prepared the dataset for analysis.
   
@@ -26,7 +27,7 @@ Data Wrangling:
   
   •	Transformed data as required for deeper insights.
   
-Data Mining:
+**Data Mining:**
 
   •	Extracted insights on top product categories and sub-categories.
   
@@ -34,7 +35,7 @@ Data Mining:
   
   •	Determined top-selling and least-selling products.
   
-Data Visualization:
+**Data Visualization:**
 
   •	Visualized popularity of product categories and sub-categories.
   
@@ -42,13 +43,13 @@ Data Visualization:
   
   •	Analyzed the correlation between ratings and number of ratings for popular products.
   
-Reporting:
+**Reporting:**
 
   •	Compiled findings in a comprehensive report.
   
   •	Summarized insights and highlighted key trends and factors affecting sales.
 
-Impact:
+**Impact:**
 
 •	Provided a detailed understanding of Amazon’s product sales landscape.
 
