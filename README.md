@@ -67,10 +67,8 @@
 ### **Data:**
 - Amazon-Products.csv
 
-### **Programming Language:** 
+### **Programming Language & Libraries:** 
   - Python
-
-### **Libraries:**
   - Numpy
   - Pandas
   - Matplotlib
