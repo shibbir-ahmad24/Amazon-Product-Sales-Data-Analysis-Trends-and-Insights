@@ -58,14 +58,14 @@
 
 •	Improved inventory management by identifying top-selling and least-selling products.
 
+•	Contributed to optimized sales outcomes and enhanced customer satisfaction.
 
-- **Programming Language:** Python
-  
-- **Libraries:**
+
+### **Programming Language:** Python
+
+### **Libraries:**
   - Numpy
   - Pandas
   - Matplotlib
   - Seaborn
-
-•	Contributed to optimized sales outcomes and enhanced customer satisfaction.
 
