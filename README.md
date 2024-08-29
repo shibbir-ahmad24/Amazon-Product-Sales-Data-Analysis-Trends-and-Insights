@@ -76,4 +76,20 @@
   - Seaborn
 
 ### **Analysis Visuals**
-![Sales Trends](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image1.png)
+![image1](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image1.png)
+
+![image2](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image2.png)
+
+![image3](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image3.png)
+
+![image4](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image4.png)
+
+![image5](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image5.png)
+
+![image6](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image6.png)
+
+![image7](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image7.png)
+
+
+
+
