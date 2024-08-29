@@ -75,6 +75,5 @@
   - Matplotlib
   - Seaborn
 
-
 ### **Analysis Visuals**
-
+![Sales Trends](https://github.com/shibbir282/Amazon-Product-Sales-Data-Analysis/raw/main/Analysis%20Visuals/image1.png)
